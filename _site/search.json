@@ -1,0 +1,31 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Content",
+    "crumbs": [
+      "Quarto Bug",
+      "About"
+    ]
+  },
+  {
+    "objectID": "about.html#this-content-is-far-down-when-the-viewing-area-is-wide",
+    "href": "about.html#this-content-is-far-down-when-the-viewing-area-is-wide",
+    "title": "About",
+    "section": "",
+    "text": "Content",
+    "crumbs": [
+      "Quarto Bug",
+      "About"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Quarto Bug",
+    "section": "",
+    "text": "Test\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  }
+]

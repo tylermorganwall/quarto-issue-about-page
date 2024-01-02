@@ -1,0 +1,5 @@
+---
+title: "Quarto Bug"
+listing:
+  contents: posts
+---
